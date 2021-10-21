@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctnWwmjUloYnK3BJuAuI2MIsRN79A8T5OcQIMbpMJxlyc2yb1ZwEYIzpmw+Man3U4fe5KoxmLNUPMbfrSnMmuQ==",
+  "success": true,
+  "projectFilePath": "/Users/princecolc/Desktop/Ritza/Repositories/dotnet-webapp/dotnet-webapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/princecolc/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/princecolc/.nuget/packages/microsoft.netframework.referenceassemblies.net20/1.0.0/microsoft.netframework.referenceassemblies.net20.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

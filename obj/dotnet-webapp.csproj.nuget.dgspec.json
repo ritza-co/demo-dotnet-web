@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/princecolc/Desktop/Ritza/Repositories/dotnet-webapp/dotnet-webapp.csproj": {}
+  },
+  "projects": {
+    "/Users/princecolc/Desktop/Ritza/Repositories/dotnet-webapp/dotnet-webapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/princecolc/Desktop/Ritza/Repositories/dotnet-webapp/dotnet-webapp.csproj",
+        "projectName": "dotnet-webapp",
+        "projectPath": "/Users/princecolc/Desktop/Ritza/Repositories/dotnet-webapp/dotnet-webapp.csproj",
+        "packagesPath": "/Users/princecolc/.nuget/packages/",
+        "outputPath": "/Users/princecolc/Desktop/Ritza/Repositories/dotnet-webapp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/princecolc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net31": {
+            "targetAlias": "net3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net31": {
+          "targetAlias": "net3.1",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
